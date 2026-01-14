@@ -29,11 +29,13 @@ Windows cmd.exe    : PATH=[path-to-bin];%PATH%
 
 To use the Diamond IDE, you must first request a license. (Free for individuals.)
 
-Go to the [licensing page](https://www.latticesemi.com/Support/Licensing/DiamondAndiCEcube2SoftwareLicensing/DiamondFree?url=%2fSupport%2fLicensing%2fDiamondAndiCEcube2SoftwareLicensing%2fDiamondFree&tracker=login) and create an account. Then copy your device's MAC address, remove all colons and enter it into the "Host NIC" field. Click "Generate License", and you should receive a license in your email.
+Go to the [licensing page](https://www.latticesemi.com/Support/Licensing/DiamondAndiCEcube2SoftwareLicensing/DiamondFree?url=%2fSupport%2fLicensing%2fDiamondAndiCEcube2SoftwareLicensing%2fDiamondFree&tracker=login) and create an account. Then copy your device's MAC address, remove all colons and enter it into the "Host NIC" field. Click "Generate License". You should receive a license in your email after a few minutes.
 
-After that, go to Diamond IDE's [download page](https://www.latticesemi.com/LatticeDiamond), install normally and select the license file when asked.
+After that, go to Diamond IDE's [download page](https://www.latticesemi.com/LatticeDiamond), install it following their instructions and select the license file when prompted.
 
 You can now use Diamon IDE to create programs and flash it onto your Icepi with openFPGALoader!
+
+Read more detailed instructions in the `DIAMOND.md` file.
 
 ## How to build the demos
 
