@@ -62730,7 +62730,6 @@
 		(start 155.631719 112.3)
 		(end 153.941364 110.609645)
 		(width 0.2)
-		(locked yes)
 		(layer "B.Cu")
 		(net 34)
 		(uuid "6a33adf7-dd07-4e00-a1f2-80c5562becd1")
