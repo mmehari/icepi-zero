@@ -17,6 +17,8 @@ once assembled.
 
 ![](gallery/buttons.jpg)
 
+To use this case you need 4x M2 10mm or 12mm screws and heat-set inserts.
+
 ### License
 Design files are released under the [Creative Commons CC-BY-SA-NC license.](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 and are provided with no warranty of any kind. Any use is at your own risk.
