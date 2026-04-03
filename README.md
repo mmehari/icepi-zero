@@ -78,6 +78,10 @@ NOTE: If you fabbed v1.1 before 01/06, the pins of the USB pullups and LED0 is d
 
 [View PCB online](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fcheyao%2Ficepi-zero%2Ftree%2Fmain%2Fhardware%2Fv1.2)
 
+## Acknowledgments
+
+This project was inspired by the [ulx3s](https://github.com/emard/ulx3s), huge props to the ulx3s team for making such a good board!
+
 ## Contact
 
 If there is any questions DM `cyao.` on Discord. (Yup, with a dot. Send me a friend request!) Mail is also accepted at `cyao _at_ duck.com`. :)
