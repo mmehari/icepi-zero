@@ -17,7 +17,7 @@ module top (
 endmodule
 
 module debouncer #(
-    parameter N = 7
+    parameter N = 20  // JDG switch was still bouncing
 ) (
     input  clk,
     input  btn,
