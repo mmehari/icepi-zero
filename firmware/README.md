@@ -123,6 +123,8 @@ This board is already supported by [apio](https://github.com/FPGAwars/apio/) and
 
 The [litex-boards](https://github.com/litex-hub/litex-boards) also supports the Icepi Zero, while [linux-on-litex-vexriscv](https://github.com/litex-hub/linux-on-litex-vexriscv) has an pr open. (Forgot to open it last month, opps!)
 
+For 1024x600 60Hz video output with audio, check out @danodus's awesome implementation: [https://github.com/danodus/ecp5_hdmi_audio_video](https://github.com/danodus/ecp5_hdmi_audio_video)
+
 And here are some retro ports:
 
 - [Apple 1 Emulator](https://github.com/alangarf/apple-one)
