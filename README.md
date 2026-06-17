@@ -7,6 +7,8 @@
 
 If you are a student/educational institute, send me an email at `cyao _at_ duck.com` and I'll give an educational discount of $65!
 
+We also got a [Discord server](https://discord.gg/vzrqfhcvWr)! Feel free to ask any questions here.
+
 ## What is the Icepi Zero?
 
 The Icepi Zero is an FPGA development board in the popular Raspberry Pi Zero form factor. It carries a Lattice ECP5 25F, enabling powerful designs while keeping a small portable size. It also has a GPDI mini (General Purpose Display Interface, same as the one on the Pi Zero) port allowing easy digital video output.
@@ -86,5 +88,4 @@ This project was inspired by the [ulx3s](https://github.com/emard/ulx3s), huge p
 
 ## Contact
 
-If there is any questions DM `cyao.` on Discord. (Yup, with a dot. Send me a friend request!) Mail is also accepted at `cyao _at_ duck.com`. :)
-
+If there is any questions DM `cyao.` or join the [discord server](https://discord.gg/vzrqfhcvWr)! Feel free to ask any questions here. Mail is also accepted at `cyao _at_ duck.com`. :) 
